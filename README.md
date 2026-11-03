@@ -2,6 +2,9 @@
 
 # Medal of Honor  Recompiled + Full 6dof VR
 
+[![Medal Of Honor PSX (https://raw.githubusercontent.com/igiteam/Medal-Of-Honor-PSX-Recomp/refs/heads/master/launcher_assets/img/boxart.png)](https://archive.org/details/20240525_20240525_1245)
+
+
 <!-- retcomm-readme-metrics -->
 [![GitHub downloads (all assets, all releases)](https://img.shields.io/github/downloads/FractalEngineer/Medal-Of-Honor-PSX-Recomp/total)](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp/releases)
 [![Alpha v0.1.6](https://img.shields.io/badge/alpha-v0.1.6-orange)](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp/releases/tag/v0.1.6)
@@ -12,10 +15,6 @@
   <img src="launcher_assets/img/boxart.png" alt="Medal of Honor box art" width="280">
 </p>
 <!-- /retcomm-readme-boxart -->
-
-Static recompilation of **Medal of Honor** built on
-[psxrecomp](https://github.com/mstan/psxrecomp) and
-[recomp-ui](https://github.com/RetroPortingToolKit/recomp-ui).
 
 Play the original game on a flat display, or opt into the experimental native
 VR alpha with head tracking, per-eye rendering and tracked-weapon controls.
