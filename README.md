@@ -1,78 +1,16 @@
-# OpenMoHAA
+## OpenMoHAA - Medal Of Honor PSX Remake
+A remake of *Medal Of Honor PS1* rebuilt in the OpenMOHAA(Medal Of Honor Allied Assault) decompilation project.
 
-# Medal of Honor  Recompiled + Full 6dof VR
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/openmohaa-medal-of-honor-psx
+](https://treegit.macosxjs.com/?url=igiteam/openmohaa-medal-of-honor-psx)
 
-[![Medal Of Honor PSX (https://raw.githubusercontent.com/igiteam/Medal-Of-Honor-PSX-Recomp/refs/heads/master/launcher_assets/img/boxart.png)](https://archive.org/details/20240525_20240525_1245)
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/openmohaa-medal-of-honor-psx/git/trees/main?recursive=1
+](https://api.github.com/repos/igiteam/openmohaa-medal-of-honor-psx/git/trees/main?recursive=1)
 
+[![Medal Of Honor PSX](https://raw.githubusercontent.com/igiteam/Medal-Of-Honor-PSX-Recomp/refs/heads/master/launcher_assets/img/boxart.png)](https://archive.org/details/20240525_20240525_1245)
 
-<!-- retcomm-readme-metrics -->
-[![GitHub downloads (all assets, all releases)](https://img.shields.io/github/downloads/FractalEngineer/Medal-Of-Honor-PSX-Recomp/total)](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp/releases)
-[![Alpha v0.1.6](https://img.shields.io/badge/alpha-v0.1.6-orange)](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp/releases/tag/v0.1.6)
-<!-- /retcomm-readme-metrics -->
-
-<!-- retcomm-readme-boxart -->
-<p align="center">
-  <img src="launcher_assets/img/boxart.png" alt="Medal of Honor box art" width="280">
-</p>
-<!-- /retcomm-readme-boxart -->
-
-Play the original game on a flat display, or opt into the experimental native
-VR alpha with head tracking, per-eye rendering and tracked-weapon controls.
-Flat play is the default; VR is enabled through a separate launcher.
-Watch the [VR video demo](https://youtu.be/aS8N94uO3M0) for gameplay footage.
-
-The **v0.1.6 Windows native alpha** is available from this fork's
-[releases](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp/releases/tag/v0.1.6).
-See [alpha installation and controls](ALPHA_README.md) before testing.
-
-| | |
-|---|---|
-| Players | 2 |
-| Region | USA |
-| Publisher | - |
-| Year | - |
-
-Scaffolded with the New Project Layout. See
-`psxrecomp/docs/GAME_PROJECT_SETUP.md` for the full flow.
-
-<!-- retcomm-readme-launcher -->
-## Retro Launcher
-
-You can run this title **standalone** (download the release zip, point it at
-your disc, play), or manage installs, updates, and disc/BIOS wiring with
-**[Retro Launcher](https://github.com/RetroPortingToolKit/Retro-Launcher)** —
-the Retro Compilation Manager hub for self-compiling recomps.
-
-[Downloads](https://github.com/RetroPortingToolKit/Retro-Launcher/releases) ·
-[Full README & features](https://github.com/RetroPortingToolKit/Retro-Launcher#readme)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RetroPortingToolKit/Retro-Launcher/main/docs/screenshots/hub-and-game-launcher.png" alt="Retro hub with a background build, next to a title’s recomp-ui launcher" width="720">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RetroPortingToolKit/Retro-Launcher/main/docs/screenshots/queue-and-background-build.png" alt="Background cmake build with titles queued" width="720">
-</p>
-
-Retro checks for updates, installs the prebuilt release zips, and automates
-BIOS/ROM/save plumbing so you are not stuck repeating each game’s first run by hand.
-<!-- /retcomm-readme-launcher -->
-
-## Legal
-
-You must own the original game. Disc images under `disc/` are gitignored and
-must never be committed. Retail BIOS dumps are not redistributed and no C
-derived from one may be committed; releases run on the bundled MIT OpenBIOS.
-
-`generated/` (the recompiled game C) **is committed**: releases ship the
-compiled game, built by CI from that tree. Regenerate and commit it whenever
-seeds or the framework pin change.
-
-Default app icon: `assets/psxrecomp.ico` (and `.png` / `.svg`) — Retro-themed controller mark from `psxrecomp/assets/`. Windows builds embed it via `APP_ICON`.
-
-Optional box art under `launcher_assets/img/` may come from
-[libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails)
-(`Named_Boxarts`); see `BOXART_SOURCE.txt` when present.
 
 ## Flat play
 
