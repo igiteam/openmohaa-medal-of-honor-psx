@@ -33,6 +33,10 @@ A remake of *Medal Of Honor PS1* rebuilt in the OpenMOHAA(Medal Of Honor Allied 
 
 [![Custom Map Mohaa](https://img.youtube.com/vi/jpQtYtf5NIU/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjG8I30C5crzYKxgkD4kO2NG)
 
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
 ## Flat play
 
