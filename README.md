@@ -33,23 +33,6 @@ environment when it exits.
 
 `RunVR-VDXR.bat -Desktop` is a stereo diagnostic mode, not the ordinary flat launch.
 
-## Experimental VR alpha (Windows)
-
-The current [v0.1.6 Alpha](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp/releases/tag/v0.1.6)
-fixes the missing nearby floor and world shakiness during head movement, and
-prevents overload shedding from flashing black frames. It retains tracked
-weapons, the hand-anchored native HUD, desktop spectator mirror, barrel laser,
-and 1080p default. Production builds disable heavyweight debug instrumentation.
-The owner considers this build playable on Quest 3 through Virtual Desktop
-with **VDXR**; demanding scenes can still slow down.
-
-<p align="center">
-  <a href="https://youtu.be/aS8N94uO3M0" title="Watch the Medal of Honor VR alpha gameplay demo">
-    <img src="assets/vr-alpha-video-thumbnail.jpg" alt="Medal of Honor VR alpha gameplay demo" width="900">
-  </a>
-  <br>
-  <a href="https://youtu.be/aS8N94uO3M0"><strong>&#9654; WATCH THE VR ALPHA GAMEPLAY DEMO</strong></a>
-</p>
 
 ### Setup and launch
 
@@ -153,18 +136,42 @@ are authoritative. `framework_pins.txt` is an optional scaffold snapshot;
 release CI logs SHAs with `record_pins.sh` but builds whatever the gitlinks
 resolve to. Bump submodules deliberately — do not float on `main`/`master`
 in release CI.
-
-<!-- retcomm-readme-raid -->
+ 
 ---
+ 
+## Dev Environment
 
-<p align="center">
-  <sub><b>R.A.I.D. — Retro AI Development</b> · a Discord for AI-assisted retro reverse-engineering, decomp &amp; recomp</sub>
-</p>
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
 
-<p align="center">
-  <a href="https://discord.gg/Ad9BwSzctP"><img src=".github/raid-discord.png" alt="Join the Retro AI Development (R.A.I.D.) Discord" width="200"></a>
-</p>
-<!-- /retcomm-readme-raid -->
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
 
 
 [![Build](https://github.com/openmoh/openmohaa/actions/workflows/branches-build.yml/badge.svg?branch=main)](https://github.com/openmoh/openmohaa/actions/workflows/branches-build.yml) [![Release](https://img.shields.io/github/v/release/openmoh/openmohaa)](https://github.com/openmoh/openmohaa/releases) [![Downloads](https://img.shields.io/github/downloads/openmoh/openmohaa/total)](https://github.com/openmoh/openmohaa/releases)
