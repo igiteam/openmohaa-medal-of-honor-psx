@@ -11,6 +11,12 @@ A remake of *Medal Of Honor PS1* rebuilt in the OpenMOHAA(Medal Of Honor Allied 
 
 [![Medal Of Honor PSX](https://raw.githubusercontent.com/igiteam/Medal-Of-Honor-PSX-Recomp/refs/heads/master/launcher_assets/img/boxart.png)](https://archive.org/details/20240525_20240525_1245)
 
+## Reference links
+[https://github.com/igiteam/Medal-Of-Honor-PSX-Recomp](https://github.com/igiteam/Medal-Of-Honor-PSX-Recomp)
+[https://archive.org/details/20240525_20240525_1245](https://archive.org/details/20240525_20240525_1245)
+[https://archive.org/details/20240525_20240525_1401](https://archive.org/details/20240525_20240525_1401)
+[https://archive.org/details/mohaa-dvd](https://archive.org/details/mohaa-dvd)
+[https://www.moh-db.com/](https://www.moh-db.com/)
 
 ## Flat play
 
