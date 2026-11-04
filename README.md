@@ -21,6 +21,12 @@ A remake of *Medal Of Honor PS1* rebuilt in the OpenMOHAA(Medal Of Honor Allied 
 
 [https://archive.org/details/mohaa-dvd](https://archive.org/details/mohaa-dvd)
 
+[https://github.com/gtsh77/MOHTools](https://github.com/gtsh77/MOHTools)
+
+[https://www.moddb.com/games/medal-of-honor-allied-assault/downloads/moa-allied-assault-level-editor](https://www.moddb.com/games/medal-of-honor-allied-assault/downloads/moa-allied-assault-level-editor)
+
+[https://www.moddb.com/games/medal-of-honor-allied-assault/addons](https://www.moddb.com/games/medal-of-honor-allied-assault/addons)
+
 [https://www.moh-db.com/](https://www.moh-db.com/)
 
 [https://www.moddb.com/games/medal-of-honor-allied-assault/downloads](https://www.moddb.com/games/medal-of-honor-allied-assault/downloads)
