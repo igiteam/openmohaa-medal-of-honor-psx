@@ -15,6 +15,8 @@ A remake of *Medal Of Honor PS1* rebuilt in the OpenMOHAA(Medal Of Honor Allied 
 ## Reference links
 [https://github.com/igiteam/Medal-Of-Honor-PSX-Recomp](https://github.com/igiteam/Medal-Of-Honor-PSX-Recomp)
 
+[https://github.com/boodyandmustafa-create/MOH-EuropeanAssault-PC-Port](https://github.com/boodyandmustafa-create/MOH-EuropeanAssault-PC-Port)
+
 [https://archive.org/details/20240525_20240525_1245](https://archive.org/details/20240525_20240525_1245)
 
 [https://archive.org/details/20240525_20240525_1401](https://archive.org/details/20240525_20240525_1401)
