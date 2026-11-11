@@ -19,6 +19,8 @@ A remake of *Medal Of Honor PS1* rebuilt in the OpenMOHAA(Medal Of Honor Allied 
 
 [https://github.com/ant0-blase/MOHFrontline-GC-RECOMP](https://github.com/ant0-blase/MOHFrontline-GC-RECOMP)
 
+[https://github.com/igiteam/MOH-RisingSun-XBERecomp](https://github.com/igiteam/MOH-RisingSun-XBERecomp)
+
 [https://archive.org/details/20240525_20240525_1245](https://archive.org/details/20240525_20240525_1245)
 
 [https://archive.org/details/20240525_20240525_1401](https://archive.org/details/20240525_20240525_1401)
